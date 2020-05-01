@@ -8,4 +8,4 @@ Medium will only win if the human player makes a mistake.
 
 Hard is a perfect player and will always win or stalemate.
 
-The game state can be moved back one move at a time any point with a history going back to the start of the game.
+The game state can be moved back one move at a time at any point with a history going back to the start of the game.
